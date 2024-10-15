@@ -18,6 +18,6 @@ console.log("file creating is started");
 // );
 // console.log("file creating is done");
 
-fs.appendFile("gnani.txt", " apple", (e, d) => {
-  console.log(e);
-});
+// fs.appendFile("gnani.txt", " apple", (e, d) => {
+//   console.log(e);
+// });
