@@ -1,15 +1,14 @@
-import express from "express";
-import { fileURLToPath } from "url";
-import { dirname } from "path";
+const express = require("express");
+const blog = require("./routes/blog");
+const shop = require("./routes/shop");
 
 const app = express();
 const port = 3000;
 
 // Manually define __dirname for ES modules
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
 app.use(express.static("public"));
-
+app.use("/blog", blog);
+app.use("/shop", shop);
 // these is normal syntx
 
 app.get("/", (req, res) => {
