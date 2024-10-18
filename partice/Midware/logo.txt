@@ -1,0 +1,21 @@
+Middleware1 Time: 1729218400680, method is: GET
+Middleware1 Time: 1729218401289, method is: GET
+Middleware1 Time: 1729218401806, method is: GET
+Middleware1 Time: 1729218402231, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: function toLocaleString() { [native code] }, method is: GET
+Middleware1 Time: 18/10/2024, 8:00:05 am, method is: GET
+Middleware1 Time: 18/10/2024, 8:00:05 am, method is: GET
+Middleware1 Time: 18/10/2024, 8:00:06 am, method is: GET
+Middleware1 Time: 18/10/2024, 10:38:54 pm, method is: GET
+Middleware1 Time: 18/10/2024, 10:38:55 pm, method is: GET
+Middleware1 Time: 18/10/2024, 10:38:56 pm, method is: GET
+Middleware1 Time: 18/10/2024, 10:39:01 pm, method is: GET
+Middleware1 Time: 18/10/2024, 10:39:58 pm, method is: GET
+Middleware1 Time: 18/10/2024, 10:40:05 pm, method is: GET
