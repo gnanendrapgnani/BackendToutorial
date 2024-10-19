@@ -6,7 +6,7 @@ app.set("view engine", "ejs");
 
 app.get("/", (req, res) => {
   let siteName = "gnanendrap.com";
-  let searchText = "Searc Now";
+  let searchText = "Search Now";
   let arr = ["gnani", "1", 22];
 
   res.render("index", {
